@@ -1,58 +1,37 @@
+# Keizerov Aleksandr
 
-# Aleksandr Keizerov
+## *Contact information:*
 
-Contacts
-* Phone: +375-(29)-888-68-44;
-* E-mail: kakai747o@gmail.com
-* Telegram: @Mikhail_Hursky
+* Phone:+375297575477
+* Telegram:+375297575477
+* Discord: kap404#6721
 
-Summary
-By the age of 22, I realized that what 
-I was doing in life did not please me and realized that 
-I would like to connect my life with what was always 
-close to me. Therefore, I spend all my free 
-time on improving my knowledge in the field 
-of programming and the English language,
- because my goal is to become a Front-end developer.
+## *About me*
 
-Skills
+*My aim is to become a specialist in Front-End Development.*
 
-Git, Java, JavaScript, HTML & CSS, BootStrap 3-4,
-Android, Dagger2, RxJava2, MVVM, MVP, SQL.
+## *Skils:*
 
-Latest code example
+* HTML5
+* CSS3
+* JavaScript
 
- Java
-public class HumanReadableTime {
-  public static String makeReadable(int seconds) {
-   String str = "";
-    int sec = 60;
-    int count = 2;
-    for (int i = 3; i > 0; i--) {
-      int p = seconds;
-      int r = (int) Math.pow(sec, count);
-      count--;
-      p /= r;
-      if (p >= 0 && p < 10) {
-        str += "0" + p + ":";
-      } else {
-        str += p + ":";
+## *Example of code:
+
+```
+function bubbleSort(arr) {
+        for (let j = arr.length - 1; j > 0; j--) {
+          for (let i = 0; i  arr[i + 1]) {
+              let temp = arr[i];
+              arr[i] = arr[i + 1];
+              arr[i + 1] = temp;
+            }
+          }
+        }
       }
-      p *= r;
-      seconds -= p;
-    }
-    str = str.substring(0, 8);
-    return str;
-  }
-}
-Experience
-* Courses at Tel Ran College
-* Self education
+```
 
+## *Work expperience:*
 
-Educatoin
-* College of modern technologies in machinery and car service (2013 - 2016)
-
-English
-
-Pre-Intermediate
+## *English:*
+* Pre-Intermediate A-1
